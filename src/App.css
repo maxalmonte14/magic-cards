@@ -1,0 +1,41 @@
+html {
+    width: 100%
+}
+
+#root {
+    width: 60%;
+    margin: auto;
+}
+
+.Card {
+    width: 75px;
+    height: 125px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    background-color: white;
+    display: inline-block;
+    margin: 5px;
+    padding: 5px 10px;
+}
+
+.Center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+}
+
+.Paragraph {
+    margin: 0px;
+}
+
+.Button {
+    padding: 10px;
+    font-weight: 600;
+    color: white;
+    background-color: #0652DD;
+    border: none;
+    border-radius: 2px;
+    margin: 2px;
+}
